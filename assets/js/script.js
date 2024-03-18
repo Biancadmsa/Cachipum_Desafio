@@ -1,5 +1,5 @@
 function jugarCachipum() {
-    let solicitarJugar = parseInt(prompt("🪨📄✂️Bienvenido a Cachipum, ¿cuántas veces quieres jugar continuamente del 1 al 10 🪨📄✂️?"));
+    let solicitarJugar = parseInt(prompt("🪨📄✂️Bienvenido a Cachipún, ¿cuántas veces quieres jugar continuamente del 1 al 10 🪨📄✂️?"));
     let victoriasUsuario = 0;
     let victoriasMaquina = 0;
 
